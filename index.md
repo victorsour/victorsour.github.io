@@ -37,8 +37,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-[[![Foo](http://www.google.com.au/images/nav_logo7.png)]([http://google.com.au/](https://drive.google.com/file/d/12D2pWmgOZwx9BVYUfOSr_Bh79K-h2z62/preview))
-
-](https://drive.google.com/file/d/12D2pWmgOZwx9BVYUfOSr_Bh79K-h2z62/preview)
 
 
